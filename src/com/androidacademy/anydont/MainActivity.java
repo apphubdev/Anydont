@@ -17,6 +17,7 @@ public class MainActivity extends Activity implements OnClickListener {
 	private String[] strArr = { "First", "Second", "Third", "First", "Second",
 			"Third", "First", "Second", "Third", "First", "Second", "Third" };
 
+	//second
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
